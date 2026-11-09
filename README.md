@@ -12,7 +12,7 @@
 - ✅ Перемещение файлов между папками.
 
 ## Скриншоты
-![Главная страница](resources\img\screenshot-1.png)
-![Создание новой папки и её редактирование](resources\img\screenshot-2.png)
-![Вид созданной папки](resources\img\screenshot-3.png)
-![Добавление файлов в новую папку](resources\img\screenshot-4.png)
+![Главная страница](resources/img/screenshot-1.png)
+![Создание новой папки и её редактирование](resources/img/screenshot-2.png)
+![Вид созданной папки](resources/img/screenshot-3.png)
+![Добавление файлов в новую папку](resources/img/screenshot-4.png)
